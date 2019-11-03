@@ -2,7 +2,7 @@ version: '3.5'
 services:
   postgres_db:
     container_name: postgres_db
-    image: postgres:12.0-alpine
+    image: postgres:11.5-alpine
     restart: always
     environment:
       - POSTGRES_PASSWORD=123123
