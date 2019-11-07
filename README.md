@@ -1,3 +1,9 @@
+# Entrega do Teste
+
+Todo o desenvolvimento foi feito utilizando Jupyter notebooks. Cada um dos notebooks contém uma etapa do processo que realizei. A apresentação [DE-Olist.odp](https://github.com/tpbarboza/de_analysis/raw/master/DE%20-%20Olist.odp) contém mais detalhes sobre as etapas e em qual notebook está cada informação.
+
+-------
+
 # Teste prático (work-at-olist-data)
 
 Esta é a página sobre o teste prático para os candidatos ao processo seletivo de cientistas, analistas e engenheiros de dados para o time de Business Science & Analytics do olist. Ao finalizar o teste, nos comunique pelo **[https://bit.ly/2NNVyXk](https://bit.ly/2NNVyXk)**.
@@ -33,7 +39,7 @@ Esta plataforma de e-commerce transaciona dados do varejo brasileiro. Assim, as 
 Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 
 ### Cientista de dados
-* Que tal uma análise textual dos clientes que deixaram comentários sobre suas compras? 
+* Que tal uma análise textual dos clientes que deixaram comentários sobre suas compras?
 * Alguns clientes não escreveram um comentário. Mas por que eles estão satisfeitos?
 * Com as informações da data de compra, você poderá prever vendas futuras!
 * Você também poderá focar na logística e encontrar maneiras de otimizar os tempos de entrega.
@@ -45,7 +51,7 @@ Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 * Fique livre para criar sua própria abordagem, caso considere que as dicas anteriores não sejam pertinentes.
 
 ### Analista de dados e Business Intelligence
-* Pense em alguns KPIs para monitoramento. Talvez outros para direcionamento dos gestores! 
+* Pense em alguns KPIs para monitoramento. Talvez outros para direcionamento dos gestores!
 * Um cruzamento dos dados poderia gerar relatórios interessantes. Afinal, quem são os Top 10 em vendas? Que tipo produtos eles vendem? Qual é o impacto deles para o negócio?
 * Que tal realizar uma análise exploratória dos dados. E então? Algo lhe chama a atenção?
 * Você poderia apresentar esses dados em um dashboard. Isso daria agilidade na tomada de decisão!
