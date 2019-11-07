@@ -2,6 +2,8 @@
 
 Todo o desenvolvimento foi feito utilizando Jupyter notebooks. Cada um dos notebooks contém uma etapa do processo que realizei. A apresentação [DE-Olist.odp](https://github.com/tpbarboza/de_analysis/raw/master/DE%20-%20Olist.odp) contém mais detalhes sobre as etapas e em qual notebook está cada informação.
 
+Obs: Os dados estão em ambiente AWS, mas é possível também subir um ambiente local para executar os notebooks. Basta subir o container com o docker-compose file do reposítório, e alterar a variável use_db dentro dos notebooks para 'local'
+
 -------
 
 # Teste prático (work-at-olist-data)
