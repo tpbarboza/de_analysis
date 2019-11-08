@@ -1,6 +1,6 @@
 # Entrega do Teste
 
-Todo o desenvolvimento foi feito utilizando Jupyter notebooks. Cada um dos notebooks contém uma etapa do processo que realizei. A apresentação [DE-Olist.odp](https://github.com/tpbarboza/de_analysis/raw/master/DE%20-%20Olist.odp) contém mais detalhes sobre as etapas e em qual notebook está cada informação.
+Todo o desenvolvimento foi feito utilizando Jupyter notebooks. Cada um dos notebooks contém uma etapa do processo que realizei. A apresentação [DE-Olist.odp](https://docs.google.com/presentation/d/e/2PACX-1vQNhhP829uqROaGPYy8uu3AukN0e6C4KYbwuLHfCnJwcKMJco2dympMDB6Grs1Xcpq9rjX4MnrbQ_f1/pub?start=false&loop=false&delayms=5000) contém mais detalhes sobre as etapas e em qual notebook está cada informação.
 
 Obs: Os dados estão em ambiente AWS, mas é possível também subir um ambiente local para executar os notebooks. Basta subir o container com o docker-compose file do reposítório, e alterar a variável use_db dentro dos notebooks para 'local'
 
